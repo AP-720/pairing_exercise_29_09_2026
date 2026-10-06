@@ -23,11 +23,11 @@ Order is kept: names appear in the same order they were given.
 ## 2 function signature
 ```python
 # Parameters:
-# - 
+# - List of strings
 # Return type:
-# - 
+# - Names concatenated by comma, last name joined with &
 # Side Effects:
-# - 
+# - None
 def your_function():
     pass
 ```
